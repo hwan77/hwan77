@@ -23,6 +23,7 @@
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">  
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     
+  ## Stats
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwan77&show_icons=true&theme=swift&locale=kr&hide=stars,contribs)
-  
+
 </div>
