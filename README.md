@@ -2,14 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=hwan's-Github&Github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=65&desc=%20&descAlignY=62&descAlign=62)
   
-####  :wave: Welcome my github profile !
+####  👻 SeungHwan Yoon
 
-- 👋 Hi, I’m @hwan77
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- 📫 Email: dafg1878@gmail.com
+- 🌱 Notion: https://buttered-danger-bce.notion.site/Yoon-Seung-Hwan-2f174ffe99ab4cc4bfd0f214c2f39163?pvs=4
 
   ## Skills
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white" style="">
